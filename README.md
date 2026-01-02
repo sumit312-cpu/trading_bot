@@ -65,12 +65,15 @@ Example Entry:
 ---
 
 ##  Screenshots :-
-- Project structure  
-- Balance output  
+- Project structure   
 - Order execution  
-- orders.log file
+- orders.log
 -  bot.py
 - main.py
+-  utils.py
+- logger.py
+- .env.example
+-.gitignore
  
 ##  Env :-
 
