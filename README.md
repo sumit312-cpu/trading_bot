@@ -99,7 +99,6 @@ This project demonstrates:
 ## Credits :-
 
 Developed by **Sumit Tiwari**  
-For learning & assignment purpose (Testnet Only)
 
 
 
